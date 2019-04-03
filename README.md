@@ -33,7 +33,7 @@ Listed in order of interest to me
 [Budgeter](https://github.com/SpencasaurusRex/Budgeter) | A website that will allow me to create and manage my budget by categorizing transactions
 [Stargate Strategy Game](https://github.com/SpencasaurusRex/Stargate-Warfare) | A game heavily inspired by the Stargate franchise that would take place in the alternate reality where the SGC was destroyed by the Goauld. The player would have to settle on a new planet and rebuild human civilization to build an army and strike back. I have several conflicting directions I want to take this, so this is shelved for now
 Portfolio Website | A website to show off all of my projects
-Wire Generator | Generates wires that cross but don't run against one another. Solves using backtracking and random choises. I made this a couple years ago in processing, but I want to port to something else. Would make a neat screen saver
+Wire Generator | Generates wires that cross but don't run against one another. Solves using backtracking and random choices. I made this a couple years ago in processing, but I want to port to something else. Would make a neat screen saver
 Lazarus | A story and world that I started writing and fleshing out around 2017. Very intriguing to me but I'm not sure where I can go with it
 Inf2D | A Unity Asset that would provide the tools necessary to make an infinite procedurally generated top-down 2D world
 GitHub contribution art | A bot that would automatically make commits to a dedicated GitHub account in order to make art in the contribution graph
