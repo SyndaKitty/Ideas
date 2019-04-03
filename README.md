@@ -1,8 +1,8 @@
 ## Rules
-I've created a set of rules to prevent myself from switching away from projects too often.
-1. `Currently working on` may only contain up to 5 projects at once
+This set of rules exists to prevent myself from switching away from projects too often.
+1. `Currently working on` may only contain up to 3 projects at once
 2. Projects may only leave `Currently working on` once they are feature complete
-3. I get 2 free removal "points" a year that will allow me to override rule #2
+3. I get 2 free removals a year that will allow me to override rule #2
    
    This is to make it so that I can still get rid of projects that I'm just not having fun doing
 
@@ -12,8 +12,6 @@ Project | Description
 [ARA2D](https://github.com/SpencasaurusRex/ARA2D) | A game about creating and managing a factory by programming robots
 [STAL](https://github.com/SpencasaurusRex/STAL) | A (somewhat) functional programming language to be used for creating text adventures. The language would allow functions to be written that would tie into a backend in C#
 Empty | 
-Empty |
-Empty |
 
 ## Feature Complete
 These ideas are considered feature complete and thus could be removed from the `Currently working on` list
