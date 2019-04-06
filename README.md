@@ -20,7 +20,7 @@ These ideas are considered feature complete and thus could be removed from the `
 | ----- | -----
 | [Does It Have A Five](https://github.com/SpencasaurusRex/DoesItHaveAFive) | A website that tells the user if the current temperature has a five in it. Could definitely use some polish, but techinically feature complete
 | [TaxVisualizer](https://github.com/SpencasaurusRex/TaxVisualizer) | A quick and dirty graph for visualizing the different Tax brackets, and comparing single vs married. Once again, could definitely use polish, but technically feature complete
-| [Hamburgers In Space](https://github.com/SpencasaurusRex/HamburgersInSpace) | A game made for an OMGJam where you pilot a hamburger through space, competing against other hamburgers. Obviously pickles are your projectile weapons and your shield is your bun. Naturally.
+| [Hamburgers In Space](https://github.com/SpencasaurusRex/HamburgersInSpace) | A game made for [OMGJam 4](https://itch.io/jam/omgjam4) where you pilot a hamburger through space, competing against other hamburgers. Obviously pickles are your projectile weapons and your shield is your bun. Naturally. Play it [here](https://spencasaurusrex.itch.io/hamburgers-in-space)
     
 
 ## Other ideas
