@@ -33,6 +33,7 @@ Listed in order of interest to me
 [Aetherium/Daedalus](https://github.com/SpencasaurusRex/Aetherium) | A 2D naval spaceship fighting game. This is actually the idea that got me into game dev, just never got around to fleshing this out
 [Budgeter](https://github.com/SpencasaurusRex/Budgeter) | A website that will allow me to create and manage my budget by categorizing transactions
 [Stargate Strategy Game](https://github.com/SpencasaurusRex/Stargate-Warfare) | A game heavily inspired by the Stargate franchise that would take place in the alternate reality where the SGC was destroyed by the Goauld. The player would have to settle on a new planet and rebuild human civilization to build an army and strike back. I have several conflicting directions I want to take this, so this is shelved for now
+GitHub Navigation | Browser extension or similar, that would allow more easily navigating codebases on GitHub. For example navigating to another class just by clicking on the class's name while looking at the code.
 Portfolio Website | A website to show off all of my projects
 Wire Generator | Generates wires that cross but don't run against one another. Solves using backtracking and random choices. I made this a couple years ago in processing, but I want to port to something else. Would make a neat screen saver
 Lazarus | A story and world that I started writing and fleshing out around 2017. Very intriguing to me but I'm not sure where I can go with it
