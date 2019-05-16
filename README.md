@@ -47,5 +47,5 @@ Hamburgers in Space 2 | Hamburgers in Space, but better
 As stated in rule #3, I get 2 free removals a year. This is a list of items that have been removed in the past and why
 
 ##### 2019
-+
++ KJX - This is a promising game idea, however I just simply don't feel like working on a serious project at the moment.
 +
