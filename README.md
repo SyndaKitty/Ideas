@@ -11,7 +11,7 @@ Project | Description
 ----- | -----
 [ARA2D](https://github.com/SpencasaurusRex/ARA2D) | A game about creating and managing a factory by programming robots
 [STAL](https://github.com/SpencasaurusRex/STAL) | A (somewhat) functional programming language to be used for creating text adventures. The language would allow functions to be written that would tie into a backend in C#
-Empty | 
+Project Dark (private repo) | A third person RPG. Just something less technical than my other projects
 
 ## Feature Complete
 These ideas are considered feature complete and thus could be removed from the `Currently working on` list
@@ -29,9 +29,10 @@ Listed in order of interest to me
 
 | Project | Description |
 | -----   | ----- |
-[Dark Souls Text Adventure](https://github.com/SpencasaurusRex/DarkSouls) | A reimagining of Dark Souls as a text adventure. I lack the writing skills to do this effectively for now
+Time Tracker | A simple dekstop app (w/ Electron?) that will allow me to set my current activity. My activities will be recorded throughout to keep track of my time
 [Aetherium/Daedalus](https://github.com/SpencasaurusRex/Aetherium) | A 2D naval spaceship fighting game. This is actually the idea that got me into game dev, just never got around to fleshing this out
 [Budgeter](https://github.com/SpencasaurusRex/Budgeter) | A website that will allow me to create and manage my budget by categorizing transactions
+[Dark Souls Text Adventure](https://github.com/SpencasaurusRex/DarkSouls) | A reimagining of Dark Souls as a text adventure. I lack the writing skills to do this effectively for now
 [Stargate Strategy Game](https://github.com/SpencasaurusRex/Stargate-Warfare) | A game heavily inspired by the Stargate franchise that would take place in the alternate reality where the SGC was destroyed by the Goauld. The player would have to settle on a new planet and rebuild human civilization to build an army and strike back. I have several conflicting directions I want to take this, so this is shelved for now
 GitHub Navigation | Browser extension or similar, that would allow more easily navigating codebases on GitHub. For example navigating to another class just by clicking on the class's name while looking at the code.
 Portfolio Website | A website to show off all of my projects
