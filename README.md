@@ -85,10 +85,10 @@ A list of other ideas that are just beginning to bud, in order of interest to me
 
 | Project | Description |
 | -----   | ----- |
-Time Tracker | A simple dekstop app (w/ Electron?) that will allow me to set my current activity. My activities will be recorded throughout to keep track of my time
+Spectre Console | Duplicate the functionality of https://github.com/spectresystems/spectre.console in Odin
 Wire Generator | Generates wires that cross but don't run against one another. Solves using backtracking and random choices. I made this a couple years ago in processing, but I want to port to something else. Would make a neat screen saver
+GitHub contribution art | A bot that would automatically make commits to a dedicated GitHub account in order to make art in the contribution graph
+Time Tracker | A simple dekstop app (w/ Electron?) that will allow me to set my current activity. My activities will be recorded throughout to keep track of my time
 Lazarus | A story and world that I started writing and fleshing out around 2017. Very intriguing to me but I'm not sure where I can go with it
 Inf2D | A Unity Asset that would provide the tools necessary to make an infinite procedurally generated top-down 2D world
-GitHub contribution art | A bot that would automatically make commits to a dedicated GitHub account in order to make art in the contribution graph
 Hamburgers in Space 2 | Hamburgers in Space, but better
-Spectre Console | Duplicate the functionality of https://github.com/spectresystems/spectre.console in Odin
