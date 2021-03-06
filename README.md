@@ -39,11 +39,13 @@ These ideas are considered feature complete or complete to the point that I don'
 Things I have been working on recently
 | Project                 | Description                                                |
 | ----------------------- | ---------------------------------------------------------- |
+| [Mechwork Puzzles][mp]  | Puzzle game where you program robots to fulfill tasks      |
 | [Advent Of Code][aoc]   | Solutions to the many puzzles at https://adventofcode.com/ |
 | [CPU Simulator][cpu]    | Simulating a CPU with logic gates. An educational game.    |
 
 [aoc]: https://github.com/SpencasaurusRex/AdventOfCode/
 [cpu]: https://github.com/SpencasaurusRex/CPU-Simulator/
+[mp]: https://github.com/SpencasaurusRex/MechworksPuzzles/
 
 
 ## Shelved
